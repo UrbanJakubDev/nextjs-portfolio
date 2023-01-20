@@ -1,11 +1,13 @@
-import React from 'react'
+import React from "react";
 
-type Props = {}
+type Props = {};
 
 const Footer = (props: Props) => {
   return (
-    <div>Footer</div>
-  )
-}
+    <footer>
+      Footer
+    </footer>
+  );
+};
 
-export default Footer
+export default Footer;

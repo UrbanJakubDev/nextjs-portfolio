@@ -1,11 +1,13 @@
 ---
-title: "This is an example post"
-author: "Alex Merced"
-category: "example"
+title: "Energo Tools"
+author: "Jakub Urban"
+category: "application"
 date: "2022-03-13"
-bannerImage: "url-to-image.png"
+bannerImage: "/as1.png"
 tags:
     - example
+    - backend
+    - python
 ---
 
 ## This is an example blog post

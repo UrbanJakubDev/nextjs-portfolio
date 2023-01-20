@@ -8,7 +8,6 @@ export default function Post({frontmatter, content}) {
     const {title, author, category, date, bannerImage, tags} = frontmatter
 
     return <main>
-        <img src={bannerImage}/>
         <h1>{title}</h1>
         <h2>{author} || {date}</h2>
         <h3>{category} || {tags.join()}</h3>
